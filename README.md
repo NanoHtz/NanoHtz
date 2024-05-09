@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathematics at UNED, and also a student at 42Madrid👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoHtz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoHtz&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
