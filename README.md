@@ -1,8 +1,18 @@
-# NanoHtz · C & Sistemas · Python para datos
 
 Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathematics at UNED, and also a student at 42Madrid👋
 
----
+<!-- Social links -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.hackerrank.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://stackoverflow.com/users/TU_ID" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F48024?logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://www.instagram.com/TU_USUARIO/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED** and a cadet at **42 Madrid** 👋
+
+- 🔬 I’m currently refining **minishell** (parsing, heredoc edge-cases) and optimizing **push_swap**.
+- 📊🐍 Python for data: completing **Data Analysis with Python (MOOC.fi 2024–2025)** using **NumPy/SciPy/Matplotlib/SymPy**.
 
 ## Repositories
 
