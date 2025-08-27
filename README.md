@@ -4,15 +4,46 @@ Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathem
 
 ---
 
-## Proyectos destacados
-- **Minishell** — Shell en C (parsing, señales, expansión).
-- **push_swap** — Algoritmia de ordenación por pilas (optimización de movimientos).
-- **pipex** — Pipes/redirecciones estilo Unix.
-- **fdf** — Wireframe 3D isométrico en C (gráficos).
-- **Data notebooks (Helsinki)** — EDA/ML en Jupyter (NumPy/SciPy/Matplotlib).
-- **Security/Wargames** — Scripts y apuntes.
+## Repositories
 
-> Mira mis repos fijados para abrirlos rápido.
+<p align="center">
+  <a href="https://github.com/NanoHtz/push_swap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10" />
+  </a>
+  <a href="https://github.com/NanoHtz/pipex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/NanoHtz/fdf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10" />
+  </a>
+  <a href="https://github.com/NanoHtz/libft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=libft&theme=tokyonight&border_radius=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/NanoHtz/get_next_line">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=get_next_line&theme=tokyonight&border_radius=10" />
+  </a>
+  <a href="https://github.com/NanoHtz/ft_printf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10" />
+  </a>
+</p>
+
+<details>
+  <summary>Show more</summary>
+
+  <p align="center">
+    <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10" />
+    </a>
+    <a href="https://github.com/NanoHtz/philosofers">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=philosofers&theme=tokyonight&border_radius=10" />
+    </a>
+  </p>
+
+</details>
 
 ---
 
