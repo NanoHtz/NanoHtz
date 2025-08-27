@@ -1,7 +1,5 @@
 Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathematics at UNED, and also a student at 42Madrid👋
 
-## Tech Stack · Matemáticas y Física
-
 <table>
   <tr>
     <td align="center" width="90">
