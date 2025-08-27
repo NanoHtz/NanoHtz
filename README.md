@@ -30,10 +30,6 @@ Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathem
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10" />
   </a>
 </p>
-
-<details>
-  <summary>Show more</summary>
-
   <p align="center">
     <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10" />
