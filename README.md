@@ -1,4 +1,12 @@
 Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathematics at UNED, and also a student at 42Madrid👋
+## Stats rápidas
+[![Stats](https://github-readme-stats.vercel.app/api?username=NanoHtz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://streak-stats.demolab.com?user=NanoHtz&theme=transparent)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoHtz&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+- **Minishell** — Shell en C con parser, señales y expansión.  
+  ![Stars](https://img.shields.io/github/stars/NanoHtz/minishell?style=social)
+  ![Last commit](https://img.shields.io/github/last-commit/NanoHtz/minishell)
+  [Abrir »](https://github.com/NanoHtz/minishell)
 
 <table>
   <tr>
