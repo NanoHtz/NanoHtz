@@ -22,8 +22,8 @@ Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathem
   <img height="24" src="https://cdn.simpleicons.org/docker" alt="Docker" />
 </p>
 <!-- GitHub Readme Stats (tema transparente, respeta claro/oscuro) -->
+<!-- GitHub Readme Stats (tema transparente, respeta claro/oscuro) -->
 [![Stats](https://github-readme-stats.vercel.app/api?username=NanoHtz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Streak (opcional, comenta si no quieres mostrarla) -->
 [![Streak](https://streak-stats.demolab.com/?user=NanoHtz&theme=dark)](https://git.io/streak-stats)
-
