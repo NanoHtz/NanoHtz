@@ -1,4 +1,22 @@
+# NanoHtz · C & Sistemas · Python para datos
+
 Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathematics at UNED, and also a student at 42Madrid👋
+
+---
+
+## Proyectos destacados
+- **Minishell** — Shell en C (parsing, señales, expansión).
+- **push_swap** — Algoritmia de ordenación por pilas (optimización de movimientos).
+- **pipex** — Pipes/redirecciones estilo Unix.
+- **fdf** — Wireframe 3D isométrico en C (gráficos).
+- **Data notebooks (Helsinki)** — EDA/ML en Jupyter (NumPy/SciPy/Matplotlib).
+- **Security/Wargames** — Scripts y apuntes.
+
+> Mira mis repos fijados para abrirlos rápido.
+
+---
+
+## Tech Stack · Matemáticas y Física
 
 [![Streak](https://streak-stats.demolab.com?user=NanoHtz&theme=transparent)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -53,9 +71,18 @@ Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathem
   </tr>
 </table>
 
-
 </p>
+
+---
+
+## Stats & Languages
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoHtz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoHtz&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+## Contacto
+- **LinkedIn**: *(tu enlace)*
+- **Email**: *(tu email profesional)*
+- **CV**: *(enlace a PDF)*
