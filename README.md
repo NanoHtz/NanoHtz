@@ -13,14 +13,10 @@ Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathem
    &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="32" alt="Jupyter Notebook" title="Jupyter Notebook" />
   &nbsp;&nbsp;
-  ## Matemáticas y Física
-
 <p align="left">
   <img src="https://cdn.simpleicons.org/numpy" height="28" alt="NumPy" title="NumPy" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/scipy" height="28" alt="SciPy" title="SciPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/matplotlib" height="28" alt="Matplotlib" title="Matplotlib" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sympy" height="28" alt="SymPy" title="SymPy" />
   &nbsp;&nbsp;
