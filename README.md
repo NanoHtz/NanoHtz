@@ -83,54 +83,6 @@
 <!-- fila superior -->
 ## Repositories
 
-<div align="center">
-<table>
-  <tr>
-    <!-- Arriba izquierda: Data Analysis -->
-    <td align="center" width="50%">
-      <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10" alt="Data Analysis with Python (MOOC.fi) repository card" title="Data Analysis with Python (MOOC.fi)" />
-      </a>
-    </td>
-
-    <!-- Arriba derecha: fdf -->
-    <td align="center" width="50%">
-      <a href="https://github.com/NanoHtz/fdf">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10" alt="fdf repository card" title="fdf" />
-      </a>
-      <br/>
-      <!-- Badges -->
-      <img src="https://img.shields.io/github/stars/NanoHtz/fdf?style=social" alt="Stars" />
-      <img src="https://img.shields.io/github/languages/top/NanoHtz/fdf?color=70a5fd&label=language&labelColor=1a1b27" alt="Top language" />
-      <img src="https://img.shields.io/github/last-commit/NanoHtz/fdf?color=7aa2f7&label=last%20commit&labelColor=1a1b27" alt="Last commit" />
-      <img src="https://img.shields.io/github/license/NanoHtz/fdf?color=bb9af7&labelColor=1a1b27" alt="License" />
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Abajo izquierda: push_swap -->
-    <td align="center" width="50%">
-      <a href="https://github.com/NanoHtz/push_swap">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10" alt="push_swap repository card" title="push_swap" />
-      </a>
-
-    <!-- Abajo derecha: minishell -->
-    <td align="center" width="50%">
-      <a href="https://github.com/NanoHtz/minishell">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=minishell&theme=tokyonight&border_radius=10" alt="minishell repository card" title="minishell" />
-      </a>
-      <br/>
-      <!-- Badges -->
-      <img src="https://img.shields.io/github/stars/NanoHtz/minishell?style=social" alt="Stars" />
-      <img src="https://img.shields.io/github/languages/top/NanoHtz/minishell?color=70a5fd&label=language&labelColor=1a1b27" alt="Top language" />
-      <img src="https://img.shields.io/github/last-commit/NanoHtz/minishell?color=7aa2f7&label=last%20commit&labelColor=1a1b27" alt="Last commit" />
-      <img src="https://img.shields.io/github/license/NanoHtz/minishell?color=bb9af7&labelColor=1a1b27" alt="License" />
-    </td>
-  </tr>
-</table>
-</div>
-
-
 <details>
   <summary>Show more</summary>
 
