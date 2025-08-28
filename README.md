@@ -114,8 +114,16 @@
   </p>
 
 ---
-
 ## Stats & Languages
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoHtz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoHtz&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NanoHtz&theme=tokyonight" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoHtz&layout=donut&theme=tokyonight" alt="Top languages" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=NanoHtz&theme=tokyonight" alt="GitHub streak" />
+  </a>
+</p>
