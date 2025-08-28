@@ -38,11 +38,6 @@ Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED**
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10" alt="ft_printf repository card" title="ft_printf" />
   </a>
 </p>
-
-<!-- Envolvemos la última fila en un details para casar con el </details> existente -->
-<details>
-  <summary>Show more</summary>
-
   <p align="center">
     <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10" alt="Data Analysis with Python course repo card" title="Data Analysis with Python (MOOC.fi)" />
@@ -53,10 +48,6 @@ Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED**
   </p>
 
 </details>
-
----
-
-## Tech Stack · Matemáticas y Física
 
 [![Streak](https://streak-stats.demolab.com?user=NanoHtz&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
