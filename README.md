@@ -58,73 +58,65 @@ Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED**
 
 <div align="center">
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/c/00599C" height="32" alt="C" title="C" /><br/>
+      <img src="https://cdn.simpleicons.org/c/70a5fd" height="32" alt="C" title="C" /><br/>
       <sub><b>C</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="32" alt="C++" title="C++" /><br/>
+      <img src="https://cdn.simpleicons.org/cplusplus/7aa2f7" height="32" alt="C++" title="C++" /><br/>
       <sub><b>C++</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/python" height="32" alt="Python" title="Python" /><br/>
+      <img src="https://cdn.simpleicons.org/python/bb9af7" height="32" alt="Python" title="Python" /><br/>
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/jupyter/F37626" height="32" alt="Jupyter Notebook" title="Jupyter Notebook" /><br/>
+      <img src="https://cdn.simpleicons.org/jupyter/f7768e" height="32" alt="Jupyter Notebook" title="Jupyter Notebook" /><br/>
       <sub><b>Jupyter</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/linux" height="32" alt="Linux" title="Linux" /><br/>
+      <img src="https://cdn.simpleicons.org/linux/c0caf5" height="32" alt="Linux" title="Linux" /><br/>
       <sub><b>Linux</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/git" height="32" alt="Git" title="Git" /><br/>
+      <img src="https://cdn.simpleicons.org/git/f7768e" height="32" alt="Git" title="Git" /><br/>
       <sub><b>Git</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/numpy" height="32" alt="NumPy" title="NumPy" /><br/>
+      <img src="https://cdn.simpleicons.org/numpy/7aa2f7" height="32" alt="NumPy" title="NumPy" /><br/>
       <sub><b>NumPy</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/scipy" height="32" alt="SciPy" title="SciPy" /><br/>
+      <img src="https://cdn.simpleicons.org/scipy/bb9af7" height="32" alt="SciPy" title="SciPy" /><br/>
       <sub><b>SciPy</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/sympy" height="32" alt="SymPy" title="SymPy" /><br/>
+      <img src="https://cdn.simpleicons.org/sympy/70a5fd" height="32" alt="SymPy" title="SymPy" /><br/>
       <sub><b>SymPy</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/latex" height="32" alt="LaTeX" title="LaTeX" /><br/>
+      <img src="https://cdn.simpleicons.org/latex/c0caf5" height="32" alt="LaTeX" title="LaTeX" /><br/>
       <sub><b>LaTeX</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/overleaf/47A141" height="32" alt="Overleaf" title="Overleaf" /><br/>
+      <img src="https://cdn.simpleicons.org/overleaf/7aa2f7" height="32" alt="Overleaf" title="Overleaf" /><br/>
       <sub><b>Overleaf</b></sub>
     </td>
-    <!-- celda vacía para mantener simetría de 6 columnas -->
-    <td align="center" width="90"></td>
-  </tr>
-  <tr>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/gnu" height="32" alt="GNU Make (Makefile)" title="GNU Make (Makefile)" /><br/>
+      <img src="https://cdn.simpleicons.org/gnu/70a5fd" height="32" alt="GNU Make (Makefile)" title="GNU Make (Makefile)" /><br/>
       <sub><b>Makefile</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/vim" height="32" alt="Vim" title="Vim" /><br/>
+      <img src="https://cdn.simpleicons.org/vim/bb9af7" height="32" alt="Vim" title="Vim" /><br/>
       <sub><b>Vim</b></sub>
     </td>
-    <!-- relleno para centrar visualmente la fila a 6 columnas -->
-    <td align="center" width="90"></td>
-    <td align="center" width="90"></td>
-    <td align="center" width="90"></td>
-    <td align="center" width="90"></td>
   </tr>
 </table>
+</div>
+
 
 </div>
 
