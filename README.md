@@ -180,9 +180,20 @@
 </div>
 
 <!-- ===== Stats & Languages (header) ===== -->
-<h2 align="center">
-  📊&nbsp;Stats&nbsp;&amp;&nbsp;Languages
-</h2>
+<!-- ===== Stats & Languages (header + divider) ===== -->
+<h2 align="center">📊&nbsp;Stats&nbsp;&amp;&nbsp;Languages</h2>
+<p align="center">
+  <svg width="520" height="8" viewBox="0 0 520 8" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="decorative divider">
+    <defs>
+      <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%"  stop-color="#70a5fd"/>
+        <stop offset="50%" stop-color="#bb9af7"/>
+        <stop offset="100%" stop-color="#7aa2f7"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="3" width="520" height="2" fill="url(#g2)" rx="1"/>
+  </svg>
+</p>
 
 
 <p align="center">
