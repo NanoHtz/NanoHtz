@@ -1,6 +1,3 @@
-
-Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathematics at UNED, and also a student at 42Madrid👋
-
 <!-- Social links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,8 +7,10 @@ Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathem
 
 Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED** and a cadet at **42 Madrid** 👋
 
-- 🔬 I’m currently refining **minishell** (parsing, heredoc edge-cases) and optimizing **push_swap**.
-- 📊🐍 Python for data: completing **Data Analysis with Python (MOOC.fi 2024–2025)** using **NumPy/SciPy/Matplotlib/SymPy**.
+- 🎓 Physics–Mathematics dual-degree student at **UNED** (ongoing).
+- 🔬 I’m currently refining **minishell** and optimizing **philosophers**.
+- 📊🐍 Python for data: completing **Data Analysis with Python** using **NumPy/SciPy/Matplotlib/SymPy** at **Helsinky University**.
+
 
 ## Repositories
 
