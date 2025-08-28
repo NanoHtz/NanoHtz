@@ -4,7 +4,6 @@ Hello, I'm Nano, a student enrolled in the dual degree program in Physics-Mathem
 <!-- Social links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
 <a href="https://profile-v3.intra.42.fr/" target="_blank">
     <img src="https://img.shields.io/badge/42%20Intra-000000?logo=42&logoColor=white" alt="42 Intra">
   </a>
