@@ -47,9 +47,6 @@ Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED**
     </a>
   </p>
 
-</details>
-
-[![Streak](https://streak-stats.demolab.com?user=NanoHtz&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <table>
   <tr>
