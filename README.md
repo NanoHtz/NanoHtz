@@ -48,6 +48,8 @@ Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED**
   </p>
 
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="90">
@@ -96,8 +98,27 @@ Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED**
       <img src="https://cdn.simpleicons.org/overleaf/47A141" height="32" alt="Overleaf" title="Overleaf" /><br/>
       <sub><b>Overleaf</b></sub>
     </td>
+    <!-- celda vacía para mantener simetría de 6 columnas -->
+    <td align="center" width="90"></td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/gnu" height="32" alt="GNU Make (Makefile)" title="GNU Make (Makefile)" /><br/>
+      <sub><b>Makefile</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/vim" height="32" alt="Vim" title="Vim" /><br/>
+      <sub><b>Vim</b></sub>
+    </td>
+    <!-- relleno para centrar visualmente la fila a 6 columnas -->
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
   </tr>
 </table>
+
+</div>
 
 </p>
 
