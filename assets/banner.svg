@@ -1,0 +1,91 @@
+<!-- assets/banner.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">NanoHtz — Physics–Mathematics • 42 Madrid • Python for Data & AI</title>
+  <desc id="desc">Banner oscuro con fondo estelar y un agujero negro estilizado; texto a la izquierda.</desc>
+
+  <!-- Paleta tokyonight-like -->
+  <defs>
+    <!-- Fondo en degradado -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#15161e"/>
+    </linearGradient>
+
+    <!-- Brillo sutil hacia la derecha -->
+    <radialGradient id="glow" cx="78%" cy="46%" r="50%">
+      <stop offset="0%"  stop-color="#bb9af7" stop-opacity="0.15"/>
+      <stop offset="60%" stop-color="#7aa2f7" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#1a1b27" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Gradiente del anillo fotónico -->
+    <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#bb9af7"/>
+      <stop offset="50%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#70a5fd"/>
+    </linearGradient>
+
+    <!-- Gradiente del disco de acreción -->
+    <radialGradient id="diskGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#f7768e" stop-opacity="0.75"/>
+      <stop offset="35%"  stop-color="#bb9af7" stop-opacity="0.55"/>
+      <stop offset="65%"  stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1a1b27" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Estilos de texto -->
+    <style>
+      .title   { font: 700 64px/1.1 Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#70a5fd; }
+      .tagline { font: 500 20px/1.4 Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif; fill:#c0caf5; opacity:.95; }
+    </style>
+  </defs>
+
+  <!-- Capa de fondo -->
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#glow)"/>
+
+  <!-- Campo de estrellas minimal -->
+  <g fill="#c0caf5" opacity="0.5">
+    <circle cx="60" cy="40" r="1"/><circle cx="120" cy="90" r="1.2"/><circle cx="200" cy="60" r="0.9"/>
+    <circle cx="300" cy="110" r="1"/><circle cx="420" cy="40" r="1.1"/><circle cx="520" cy="80" r="0.9"/>
+    <circle cx="80" cy="180" r="1"/><circle cx="240" cy="220" r="1.2"/><circle cx="360" cy="170" r="0.9"/>
+    <circle cx="460" cy="210" r="1"/><circle cx="580" cy="150" r="1.1"/><circle cx="600" cy="260" r="1"/>
+    <circle cx="980" cy="40" r="1"/><circle cx="1100" cy="90" r="1.2"/><circle cx="1180" cy="60" r="0.9"/>
+    <circle cx="940" cy="140" r="1.1"/><circle cx="1040" cy="180" r="1"/><circle cx="1200" cy="240" r="1.2"/>
+    <circle cx="900" cy="300" r="0.9"/><circle cx="760" cy="260" r="1"/>
+  </g>
+
+  <!-- Texto principal (izquierda) -->
+  <g transform="translate(64,110)">
+    <text class="title">NanoHtz</text>
+    <text class="tagline" y="56">Physics–Mathematics • 42 Madrid</text>
+    <text class="tagline" y="86">Python for Data &amp; AI</text>
+  </g>
+
+  <!-- AGUJERO NEGRO GRANDE (derecha) -->
+  <!-- Reubicado a la izquierda (x=780) para que el mayor tamaño no se salga del lienzo -->
+  <g transform="translate(780,40)">
+    <!-- Sombra general para integrar -->
+    <ellipse cx="200" cy="120" rx="280" ry="170" fill="url(#glow)" opacity="0.35"/>
+
+    <!-- Disco de acreción (más grande) -->
+    <g transform="rotate(-12,200,120)">
+      <ellipse cx="200" cy="120" rx="260" ry="88" fill="url(#diskGrad)"/>
+      <ellipse cx="200" cy="120" rx="260" ry="88" fill="none" stroke="#7aa2f7" stroke-opacity="0.25" stroke-width="2"/>
+    </g>
+
+    <!-- Horizonte de sucesos (círculo negro más grande) -->
+    <circle cx="200" cy="120" r="66" fill="#05060a"/>
+
+    <!-- Anillo fotónico (r mayor) -->
+    <circle cx="200" cy="120" r="82" fill="none" stroke="url(#ringGrad)" stroke-width="6" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="200" cy="120" r="90" fill="none" stroke="url(#ringGrad)" stroke-width="2" opacity="0.5"/>
+
+    <!-- Ondas/estelas sutiles alrededor -->
+    <g opacity="0.45" fill="none">
+      <path d="M-10,120 C80,70 150,170 200,120"  stroke="#7aa2f7" stroke-width="1.6"/>
+      <path d="M200,120 C260,80 330,160 420,120" stroke="#bb9af7" stroke-width="1.6"/>
+      <path d="M10,160 C140,110 260,190 390,150" stroke="#70a5fd" stroke-width="1.2" opacity="0.6"/>
+    </g>
+  </g>
+</svg>
