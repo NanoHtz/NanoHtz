@@ -1,6 +1,6 @@
 <!-- assets/banner.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">NanoHtz — Physics–Mathematics • 42 Madrid • Python for Data & AI</title>
+  <title id="title">NanoHtz — Physics–Mathematics • 42 Madrid • Python for Data &amp; AI</title>
   <desc id="desc">Banner oscuro con fondo estelar y un agujero negro estilizado; texto a la izquierda.</desc>
 
   <!-- Paleta tokyonight-like -->
@@ -63,25 +63,15 @@
   </g>
 
   <!-- AGUJERO NEGRO GRANDE (derecha) -->
-  <!-- Reubicado a la izquierda (x=780) para que el mayor tamaño no se salga del lienzo -->
   <g transform="translate(780,40)">
-    <!-- Sombra general para integrar -->
     <ellipse cx="200" cy="120" rx="280" ry="170" fill="url(#glow)" opacity="0.35"/>
-
-    <!-- Disco de acreción (más grande) -->
     <g transform="rotate(-12,200,120)">
       <ellipse cx="200" cy="120" rx="260" ry="88" fill="url(#diskGrad)"/>
       <ellipse cx="200" cy="120" rx="260" ry="88" fill="none" stroke="#7aa2f7" stroke-opacity="0.25" stroke-width="2"/>
     </g>
-
-    <!-- Horizonte de sucesos (círculo negro más grande) -->
     <circle cx="200" cy="120" r="66" fill="#05060a"/>
-
-    <!-- Anillo fotónico (r mayor) -->
     <circle cx="200" cy="120" r="82" fill="none" stroke="url(#ringGrad)" stroke-width="6" stroke-linecap="round" opacity="0.95"/>
     <circle cx="200" cy="120" r="90" fill="none" stroke="url(#ringGrad)" stroke-width="2" opacity="0.5"/>
-
-    <!-- Ondas/estelas sutiles alrededor -->
     <g opacity="0.45" fill="none">
       <path d="M-10,120 C80,70 150,170 200,120"  stroke="#7aa2f7" stroke-width="1.6"/>
       <path d="M200,120 C260,80 330,160 420,120" stroke="#bb9af7" stroke-width="1.6"/>
