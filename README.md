@@ -107,6 +107,7 @@
 <details>
   <summary>Show more</summary>
 
+  <!-- Resto de repos públicos (según tu perfil ahora mismo) -->
   <p align="center">
     <a href="https://github.com/NanoHtz/pipex">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10" alt="pipex repository card" title="pipex" />
@@ -119,13 +120,33 @@
     <a href="https://github.com/NanoHtz/get_next_line">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=get_next_line&theme=tokyonight&border_radius=10" alt="get_next_line repository card" title="get_next_line" />
     </a>
+    <a href="https://github.com/NanoHtz/ft_printf">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10" alt="ft_printf repository card" title="ft_printf" />
+    </a>
+  </p>
+  <p align="center">
     <a href="https://github.com/NanoHtz/philosofers">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=philosofers&theme=tokyonight&border_radius=10" alt="philosofers repository card" title="philosofers" />
     </a>
+    <a href="https://github.com/NanoHtz/NanoHtz">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=NanoHtz&theme=tokyonight&border_radius=10" alt="NanoHtz (profile repo) card" title="NanoHtz (profile repo)" />
+    </a>
   </p>
 
-</details>
+  <!-- ===================== PLANTILLA (comentada) =====================
+  Copia/pega y reemplaza REPO_NAME por el nombre exacto del repo.
+  Mantén 2 por fila para equilibrio visual.
+  <p align="center">
+    <a href="https://github.com/NanoHtz/REPO_NAME">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=REPO_NAME&theme=tokyonight&border_radius=10" alt="REPO_NAME repository card" title="REPO_NAME" />
+    </a>
+    <a href="https://github.com/NanoHtz/OTRO_REPO">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=OTRO_REPO&theme=tokyonight&border_radius=10" alt="OTRO_REPO repository card" title="OTRO_REPO" />
+    </a>
+  </p>
+  ================================================================== -->
 
+</details>
 ## Stats & Languages
 
 <p align="center">
