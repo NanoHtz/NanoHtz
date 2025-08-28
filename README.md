@@ -3,6 +3,10 @@
   <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://profile-v3.intra.42.fr/" target="_blank">
     <img src="https://img.shields.io/badge/42%20Intra-000000?logo=42&logoColor=white" alt="42 Intra">
+  <a href="mailto:tu-email@dominio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-70a5fd?logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email">
+</a>
+
   </a>
 
 Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED** and a cadet at **42 Madrid** 👋
@@ -128,10 +132,3 @@ Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanoHtz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanoHtz&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## Contacto
-- **LinkedIn**: *(tu enlace)*
-- **Email**: *(tu email profesional)*
-- **CV**: *(enlace a PDF)*
