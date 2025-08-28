@@ -71,7 +71,7 @@
 
   </a>
 
-Hi, I'm Fernando (Nano), a Physics–Mathematics dual-degree student at **UNED** and a cadet at **42 Madrid** 👋
+👋 Hi, I'm Fernando, a Physics–Mathematics dual-degree student at **UNED** and a cadet at **42 Madrid**
 
 - 🎓 Physics–Mathematics dual-degree student at **UNED** (ongoing).
 - 🔬 I’m currently refining **minishell** and optimizing **philosophers**.
