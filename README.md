@@ -156,8 +156,6 @@
 </div>
 
 </details>
-## Stats & Languages
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=NanoHtz&show_icons=true&theme=tokyonight" height="170" alt="GitHub stats" />
