@@ -111,7 +111,7 @@
 <div align="center">
   <details>
     <summary>
-      <div align="center"><big><b>Show more</b></big></div>
+       <summary><h3 align="center">Show more</h3></summary>
     </summary>
   
   <p align="center">
