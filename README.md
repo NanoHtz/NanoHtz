@@ -1,4 +1,8 @@
-<!-- Social links -->
+<p align="center">
+  <img src="assets/banner.svg" alt="Banner de NanoHtz con fondo estelar y agujero negro" width="100%" />
+</p>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://profile-v3.intra.42.fr/" target="_blank">
