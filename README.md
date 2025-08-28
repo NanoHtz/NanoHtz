@@ -62,7 +62,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/fernando-gálvez-gorbe/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn">
   </a>
   &nbsp;
@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/42%20Intra-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=1a1b27" alt="42 Intra">
   </a>
   &nbsp;
-  <a href="mailto:tu-email@dominio.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:fgalvez.g26@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-70a5fd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email">
   </a>
 </p>
@@ -108,8 +108,11 @@
   </a>
 </p>
 
-<details>
-  <summary>Show more</summary>
+<div align="center">
+  <details>
+    <summary>
+      <div align="center"><big><b>Show more</b></big></div>
+    </summary>
   
   <p align="center">
     <a href="https://github.com/NanoHtz/pipex">
@@ -148,8 +151,9 @@
   </p>
   -->
 
-</details>
 
+  </details>
+</div>
 
 </details>
 ## Stats & Languages
