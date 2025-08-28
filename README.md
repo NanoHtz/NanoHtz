@@ -62,14 +62,18 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://profile-v3.intra.42.fr/" target="_blank">
-    <img src="https://img.shields.io/badge/42%20Intra-000000?logo=42&logoColor=white" alt="42 Intra">
-  <a href="mailto:tu-email@dominio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-70a5fd?logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email">
-</a>
-
+  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn">
   </a>
+  &nbsp;
+  <a href="https://profile-v3.intra.42.fr/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/42%20Intra-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=1a1b27" alt="42 Intra">
+  </a>
+  &nbsp;
+  <a href="mailto:tu-email@dominio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact-70a5fd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email">
+  </a>
+</p>
 
 👋 Hi, I'm Fernando, a Physics–Mathematics dual-degree student at **UNED** and a cadet at **42 Madrid**
 
@@ -104,10 +108,8 @@
   </a>
 </p>
 
-<p align="center">
 <details>
   <summary>Show more</summary>
-</p>
   
   <p align="center">
     <a href="https://github.com/NanoHtz/pipex">
