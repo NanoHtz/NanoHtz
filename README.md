@@ -182,13 +182,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=NanoHtz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoHtz&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=320" height="170" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoHtz&layout=donut&theme=tokyonight&hide_border=true" height="170" alt="Top languages (donut)" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=NanoHtz&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
-  </a>
-</p>
+
 
 
