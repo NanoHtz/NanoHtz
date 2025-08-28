@@ -80,20 +80,27 @@
 
 ## Repositories
 
+<!-- fila superior -->
 <p align="center">
-  <a href="https://github.com/NanoHtz/push_swap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10" alt="push_swap repository card" title="push_swap" />
+  <!-- Arriba izquierda: Data Analysis -->
+  <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10" alt="Data Analysis with Python (MOOC.fi) repository card" title="Data Analysis with Python (MOOC.fi)" />
   </a>
-  <a href="https://github.com/NanoHtz/pipex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10" alt="pipex repository card" title="pipex" />
-  </a>
-</p>
-<p align="center">
+  <!-- Arriba derecha: fdf -->
   <a href="https://github.com/NanoHtz/fdf">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10" alt="fdf repository card" title="fdf" />
   </a>
-  <a href="https://github.com/NanoHtz/libft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=libft&theme=tokyonight&border_radius=10" alt="libft repository card" title="libft" />
+</p>
+
+<!-- fila inferior -->
+<p align="center">
+  <!-- Abajo izquierda: push_swap -->
+  <a href="https://github.com/NanoHtz/push_swap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10" alt="push_swap repository card" title="push_swap" />
+  </a>
+  <!-- Abajo derecha: minishell -->
+  <a href="https://github.com/NanoHtz/minishell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=minishell&theme=tokyonight&border_radius=10" alt="minishell repository card" title="minishell" />
   </a>
 </p>
 
@@ -101,16 +108,16 @@
   <summary>Show more</summary>
 
   <p align="center">
-    <a href="https://github.com/NanoHtz/get_next_line">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=get_next_line&theme=tokyonight&border_radius=10" alt="get_next_line repository card" title="get_next_line" />
+    <a href="https://github.com/NanoHtz/pipex">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10" alt="pipex repository card" title="pipex" />
     </a>
-    <a href="https://github.com/NanoHtz/ft_printf">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10" alt="ft_printf repository card" title="ft_printf" />
+    <a href="https://github.com/NanoHtz/libft">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=libft&theme=tokyonight&border_radius=10" alt="libft repository card" title="libft" />
     </a>
   </p>
   <p align="center">
-    <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10" alt="Data Analysis with Python course repo card" title="Data Analysis with Python (MOOC.fi)" />
+    <a href="https://github.com/NanoHtz/get_next_line">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=get_next_line&theme=tokyonight&border_radius=10" alt="get_next_line repository card" title="get_next_line" />
     </a>
     <a href="https://github.com/NanoHtz/philosofers">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=philosofers&theme=tokyonight&border_radius=10" alt="philosofers repository card" title="philosofers" />
