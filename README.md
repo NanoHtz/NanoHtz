@@ -104,9 +104,11 @@
   </a>
 </p>
 
+<p align="center">
 <details>
   <summary>Show more</summary>
-
+</p>
+  
   <p align="center">
     <a href="https://github.com/NanoHtz/pipex">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10&description_lines_count=2" alt="pipex repository card" title="pipex" />
