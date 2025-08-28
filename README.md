@@ -82,7 +82,11 @@
 - 📊🐍 Python for data: completing **Data Analysis with Python** using **NumPy/SciPy/Matplotlib/SymPy** at **Helsinky University**.
 
 
-## Repositories
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/github/70a5fd" height="22" alt="GitHub">
+  &nbsp;Repositories&nbsp;
+  <img src="https://cdn.simpleicons.org/github/70a5fd" height="22" alt="GitHub">
+</h2>
 
 <!-- fila superior (2x2) -->
 <p align="center">
@@ -175,7 +179,11 @@
   </details>
 </div>
 
-## Stats & Languages
+<!-- ===== Stats & Languages (header) ===== -->
+<h2 align="center">
+  📊&nbsp;Stats&nbsp;&amp;&nbsp;Languages
+</h2>
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
