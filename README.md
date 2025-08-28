@@ -80,50 +80,72 @@
 
 ## Repositories
 
-<!-- fila superior -->
-## Repositories
+<!-- fila superior (2x2) -->
+<p align="center">
+  <!-- Arriba izquierda: Data Analysis -->
+  <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10&description_lines_count=2" alt="Data Analysis with Python (MOOC.fi) repository card" title="Data Analysis with Python (MOOC.fi)" />
+  </a>
+  <!-- Arriba derecha: fdf -->
+  <a href="https://github.com/NanoHtz/fdf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10&description_lines_count=2" alt="fdf repository card" title="fdf" />
+  </a>
+</p>
+
+<!-- fila inferior -->
+<p align="center">
+  <!-- Abajo izquierda: push_swap -->
+  <a href="https://github.com/NanoHtz/push_swap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10&description_lines_count=2" alt="push_swap repository card" title="push_swap" />
+  </a>
+  <!-- Abajo derecha: minishell -->
+  <a href="https://github.com/NanoHtz/minishell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=minishell&theme=tokyonight&border_radius=10&description_lines_count=2" alt="minishell repository card" title="minishell" />
+  </a>
+</p>
 
 <details>
   <summary>Show more</summary>
 
-  <!-- Resto de repos públicos (según tu perfil ahora mismo) -->
   <p align="center">
     <a href="https://github.com/NanoHtz/pipex">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10" alt="pipex repository card" title="pipex" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10&description_lines_count=2" alt="pipex repository card" title="pipex" />
     </a>
     <a href="https://github.com/NanoHtz/libft">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=libft&theme=tokyonight&border_radius=10" alt="libft repository card" title="libft" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=libft&theme=tokyonight&border_radius=10&description_lines_count=2" alt="libft repository card" title="libft" />
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/NanoHtz/get_next_line">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=get_next_line&theme=tokyonight&border_radius=10" alt="get_next_line repository card" title="get_next_line" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=get_next_line&theme=tokyonight&border_radius=10&description_lines_count=2" alt="get_next_line repository card" title="get_next_line" />
     </a>
     <a href="https://github.com/NanoHtz/ft_printf">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10" alt="ft_printf repository card" title="ft_printf" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10&description_lines_count=2" alt="ft_printf repository card" title="ft_printf" />
     </a>
   </p>
   <p align="center">
     <a href="https://github.com/NanoHtz/philosofers">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=philosofers&theme=tokyonight&border_radius=10" alt="philosofers repository card" title="philosofers" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=philosofers&theme=tokyonight&border_radius=10&description_lines_count=2" alt="philosofers repository card" title="philosofers" />
     </a>
     <a href="https://github.com/NanoHtz/NanoHtz">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=NanoHtz&theme=tokyonight&border_radius=10" alt="NanoHtz (profile repo) card" title="NanoHtz (profile repo)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=NanoHtz&theme=tokyonight&border_radius=10&description_lines_count=2" alt="NanoHtz (profile repo) card" title="NanoHtz (profile repo)" />
     </a>
   </p>
 
-  <!-- ===================== PLANTILLA (comentada) =====================
-  Copia/pega y reemplaza REPO_NAME por el nombre exacto del repo.
-  Mantén 2 por fila para equilibrio visual.
+  <!-- Plantilla para añadir más (mantén 2 por fila) -->
+  <!--
   <p align="center">
     <a href="https://github.com/NanoHtz/REPO_NAME">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=REPO_NAME&theme=tokyonight&border_radius=10" alt="REPO_NAME repository card" title="REPO_NAME" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=REPO_NAME&theme=tokyonight&border_radius=10&description_lines_count=2" alt="REPO_NAME repository card" title="REPO_NAME" />
     </a>
     <a href="https://github.com/NanoHtz/OTRO_REPO">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=OTRO_REPO&theme=tokyonight&border_radius=10" alt="OTRO_REPO repository card" title="OTRO_REPO" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=OTRO_REPO&theme=tokyonight&border_radius=10&description_lines_count=2" alt="OTRO_REPO repository card" title="OTRO_REPO" />
     </a>
   </p>
-  ================================================================== -->
+  -->
+
+</details>
+
 
 </details>
 ## Stats & Languages
