@@ -83,7 +83,7 @@
 
 
 <!-- ===== Repositories (header + divider) ===== -->
-<h2 align="center">
+<h2 align="left">
   <img src="https://cdn.simpleicons.org/github/70a5fd" height="22" alt="GitHub">
   &nbsp;Repositories&nbsp;
   <img src="https://cdn.simpleicons.org/github/70a5fd" height="22" alt="GitHub">
@@ -183,7 +183,7 @@
 
 <!-- ===== Stats & Languages (header) ===== -->
 <!-- ===== Stats & Languages (header + divider) ===== -->
-<h2 align="center">
+<h2 align="left">
   📊&nbsp;Stats&nbsp;&amp;&nbsp;Languages
 </h2>
 
