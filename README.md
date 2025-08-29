@@ -56,6 +56,11 @@
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/vim/bb9af7" height="32" alt="Vim" title="Vim" /><br/>
       <sub><b>Vim</b></sub>
+      <td align="center" width="90">
+  <img src="https://cdn.simpleicons.org/pytorch/ff6b6b" height="32" alt="PyTorch" title="PyTorch" /><br/>
+  <sub><b>PyTorch</b></sub>
+</td>
+
     </td>
   </tr>
 </table>
