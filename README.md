@@ -33,6 +33,8 @@
       <img src="https://cdn.simpleicons.org/numpy/7aa2f7" height="32" alt="NumPy" title="NumPy" /><br/>
       <sub><b>NumPy</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/scipy/bb9af7" height="32" alt="SciPy" title="SciPy" /><br/>
       <sub><b>SciPy</b></sub>
@@ -56,13 +58,15 @@
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/vim/bb9af7" height="32" alt="Vim" title="Vim" /><br/>
       <sub><b>Vim</b></sub>
-      <td align="center" width="90">
-  <img src="https://cdn.simpleicons.org/pytorch/ff6b6b" height="32" alt="PyTorch" title="PyTorch" /><br/>
-  <sub><b>PyTorch</b></sub>
-</td>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/pytorch/ff6b6b" height="32" alt="PyTorch" title="PyTorch" /><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
   </tr>
 </table>
 </div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-gálvez-gorbe/" target="_blank" rel="noopener noreferrer">
