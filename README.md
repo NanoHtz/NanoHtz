@@ -101,7 +101,7 @@
 <p align="center">
   <!-- Arriba izquierda: Data Analysis -->
 <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&border_radius=10&description_lines_count=2&bg_color=30,1a1b27,15161e&title_color=f7768e&text_color=c0caf5&border_radius=10&border_color=2f334d" alt="Data Analysis with Python (MOOC.fi) repository card" title="Data Analysis with Python (MOOC.fi)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&border_radius=10&description_lines_count=2&bg_color=30,1a1b27,15161e&title_color=f7768e&text_color=c0caf5&border_color=2f334d" alt="Data Analysis with Python (MOOC.fi) repository card" title="Data Analysis with Python (MOOC.fi)" />
   </a>
   <!-- Arriba derecha: fdf -->
   <a href="https://github.com/NanoHtz/fdf">
