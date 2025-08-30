@@ -14,8 +14,8 @@
       <sub><b>C++</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/python/bb9af7" height="32" alt="Python" title="Python" /><br/>
-      <sub><b>Python</b></sub>
+      <img src="https://cdn.simpleicons.org/vim/bb9af7" height="32" alt="Vim" title="Vim" /><br/>
+      <sub><b>Vim</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/jupyter/f7768e" height="32" alt="Jupyter Notebook" title="Jupyter Notebook" /><br/>
@@ -35,6 +35,10 @@
     </td>
   </tr>
   <tr>
+     <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/python/bb9af7" height="32" alt="Python" title="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/scipy/bb9af7" height="32" alt="SciPy" title="SciPy" /><br/>
       <sub><b>SciPy</b></sub>
@@ -54,10 +58,6 @@
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/gnu/70a5fd" height="32" alt="GNU Make (Makefile)" title="GNU Make (Makefile)" /><br/>
       <sub><b>Makefile</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/vim/bb9af7" height="32" alt="Vim" title="Vim" /><br/>
-      <sub><b>Vim</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/pytorch/ff6b6b" height="32" alt="PyTorch" title="PyTorch" /><br/>
