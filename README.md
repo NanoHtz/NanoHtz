@@ -13,6 +13,18 @@
       <img src="https://cdn.simpleicons.org/cplusplus/7aa2f7" height="32" alt="C++" title="C++" /><br/>
       <sub><b>C++</b></sub>
     </td>
+        <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/git/f7768e" height="32" alt="Git" title="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+        <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/linux/c0caf5" height="32" alt="Linux" title="Linux" /><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+        <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/jupyter/f7768e" height="32" alt="Jupyter Notebook" title="Jupyter Notebook" /><br/>
+      <sub><b>Jupyter</b></sub>
+    </td>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/gnu/70a5fd" height="32" alt="GNU Make (Makefile)" title="GNU Make (Makefile)" /><br/>
       <sub><b>Makefile</b></sub>
@@ -20,18 +32,6 @@
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/vim/bb9af7" height="32" alt="Vim" title="Vim" /><br/>
       <sub><b>Vim</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/jupyter/f7768e" height="32" alt="Jupyter Notebook" title="Jupyter Notebook" /><br/>
-      <sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/linux/c0caf5" height="32" alt="Linux" title="Linux" /><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/git/f7768e" height="32" alt="Git" title="Git" /><br/>
-      <sub><b>Git</b></sub>
     </td>
   </tr>
   <tr>
