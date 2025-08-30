@@ -40,6 +40,10 @@
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/pytorch/ff6b6b" height="32" alt="PyTorch" title="PyTorch" /><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/scipy/bb9af7" height="32" alt="SciPy" title="SciPy" /><br/>
       <sub><b>SciPy</b></sub>
     </td>
@@ -58,10 +62,6 @@
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/gnu/70a5fd" height="32" alt="GNU Make (Makefile)" title="GNU Make (Makefile)" /><br/>
       <sub><b>Makefile</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/pytorch/ff6b6b" height="32" alt="PyTorch" title="PyTorch" /><br/>
-      <sub><b>PyTorch</b></sub>
     </td>
   </tr>
 </table>
