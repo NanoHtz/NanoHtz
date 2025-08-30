@@ -14,6 +14,10 @@
       <sub><b>C++</b></sub>
     </td>
     <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/gnu/70a5fd" height="32" alt="GNU Make (Makefile)" title="GNU Make (Makefile)" /><br/>
+      <sub><b>Makefile</b></sub>
+    </td>
+    <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/vim/bb9af7" height="32" alt="Vim" title="Vim" /><br/>
       <sub><b>Vim</b></sub>
     </td>
@@ -28,10 +32,6 @@
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/git/f7768e" height="32" alt="Git" title="Git" /><br/>
       <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/numpy/7aa2f7" height="32" alt="NumPy" title="NumPy" /><br/>
-      <sub><b>NumPy</b></sub>
     </td>
   </tr>
   <tr>
@@ -51,6 +51,10 @@
       <img src="https://cdn.simpleicons.org/sympy/70a5fd" height="32" alt="SymPy" title="SymPy" /><br/>
       <sub><b>SymPy</b></sub>
     </td>
+        <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/numpy/7aa2f7" height="32" alt="NumPy" title="NumPy" /><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/latex/c0caf5" height="32" alt="LaTeX" title="LaTeX" /><br/>
       <sub><b>LaTeX</b></sub>
@@ -58,10 +62,6 @@
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/overleaf/7aa2f7" height="32" alt="Overleaf" title="Overleaf" /><br/>
       <sub><b>Overleaf</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/gnu/70a5fd" height="32" alt="GNU Make (Makefile)" title="GNU Make (Makefile)" /><br/>
-      <sub><b>Makefile</b></sub>
     </td>
   </tr>
 </table>
