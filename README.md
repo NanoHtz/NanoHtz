@@ -101,11 +101,11 @@
 <p align="center">
   <!-- Arriba izquierda: Data Analysis -->
 <a href="https://github.com/NanoHtz/Data_Analysis_with_Python_2024-2025-MOOC.fi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10&hide_border=false&description_lines_count=2&bg_color=30,1a1b27,15161e&title_color=ff9bb0&text_color=c0caf5&icon_color=ff9bb0&cache_seconds=21600" alt="Data Analysis with Python (MOOC.fi)" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=Data_Analysis_with_Python_2024-2025-MOOC.fi&theme=tokyonight&border_radius=10&hide_border=false&description_lines_count=2&bg_color=30,1a1b27,15161e&title_color=ff9bb0&text_color=c0caf5&icon_color=ff9bb0&cache_seconds=21600&v=20250902-1" alt="Data Analysis with Python (MOOC.fi)" />
 </a>
   <!-- Arriba derecha: fdf -->
   <a href="https://github.com/NanoHtz/fdf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10&description_lines_count=2" alt="fdf repository card" title="fdf" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10&description_lines_count=2&v=20250902-1" alt="fdf repository card" title="fdf" />
   </a>
 </p>
 
@@ -113,11 +113,11 @@
 <p align="center">
   <!-- Abajo izquierda: push_swap -->
   <a href="https://github.com/NanoHtz/push_swap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10&description_lines_count=2" alt="push_swap repository card" title="push_swap" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10&description_lines_count=2" alt="push_swap repository card" title="push_swap&v=20250902-1" />
   </a>
   <!-- Abajo derecha: minishell -->
   <a href="https://github.com/NanoHtz/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=minishell&theme=tokyonight&border_radius=10&description_lines_count=2" alt="minishell repository card" title="minishell" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=minishell&theme=tokyonight&border_radius=10&description_lines_count=2&v=20250902-1" alt="minishell repository card" title="minishell" />
   </a>
 </p>
 
