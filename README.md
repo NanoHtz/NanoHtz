@@ -130,20 +130,20 @@
   <!-- Fila 1 -->
   <p align="center">
     <a href="https://github.com/NanoHtz/pipex">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10&description_lines_count=2&cache_seconds=21600" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=pipex&theme=tokyonight&border_radius=10&description_lines_count=2&cache_seconds=21600&v=20250902-1" />
     </a>
     <a href="https://github.com/NanoHtz/libft">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=libft&theme=tokyonight&border_radius=10&description_lines_count=2&cache_seconds=21600" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=libft&theme=tokyonight&border_radius=10&description_lines_count=2&cache_seconds=21600&v=20250902-1" />
     </a>
   </p>
 
   <!-- Fila 2 -->
   <p align="center">
     <a href="https://github.com/NanoHtz/get_next_line">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=get_next_line&theme=tokyonight&border_radius=10&description_lines_count=2&cache_seconds=21600" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=get_next_line&theme=tokyonight&border_radius=10&description_lines_count=2&cache_seconds=21600&v=20250902-1" />
     </a>
     <a href="https://github.com/NanoHtz/ft_printf">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10&description_lines_count=2&cache_seconds=21600" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=ft_printf&theme=tokyonight&border_radius=10&description_lines_count=2&cache_seconds=21600&v=20250902-1" />
     </a>
   </p>
 
