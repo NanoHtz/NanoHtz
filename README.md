@@ -105,7 +105,7 @@
 </a>
   <!-- Arriba derecha: fdf -->
   <a href="https://github.com/NanoHtz/fdf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10&description_lines_count=2&v=20250902-1" alt="fdf repository card" title="fdf" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10&description_lines_count=2&v=20250902-48" alt="fdf repository card" title="fdf" />
   </a>
 </p>
 
