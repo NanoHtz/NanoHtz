@@ -105,7 +105,7 @@
 </a>
   <!-- Arriba derecha: fdf -->
   <a href="https://github.com/NanoHtz/fdf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10&description_lines_count=2&v=20250902-2" alt="fdf repository card" title="fdf" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=fdf&theme=tokyonight&border_radius=10&description_lines_count=2&v=20250902-1" alt="fdf repository card" title="fdf" />
   </a>
 </p>
 
@@ -113,7 +113,7 @@
 <p align="center">
   <!-- Abajo izquierda: push_swap -->
   <a href="https://github.com/NanoHtz/push_swap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10&description_lines_count=2&v=20250902-1" alt="push_swap repository card" title="push_swap" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanoHtz&repo=push_swap&theme=tokyonight&border_radius=10&description_lines_count=2&v=20250902-2" alt="push_swap repository card" title="push_swap" />
   </a>
   <!-- Abajo derecha: minishell -->
   <a href="https://github.com/NanoHtz/minishell">
