@@ -85,7 +85,7 @@
 👋 Hi, I'm Fernando, a Physics–Mathematics dual-degree student at **UNED** and a cadet at **42 Madrid**
 
 - 🎓 Physics–Mathematics dual-degree student at **UNED** (ongoing).
-- 🔬 I’m currently refining **minishell** and optimizing **philosophers**.
+- 🔬 I’m currently refining **Cub3d** and optimizing **philosophers**.
 - 📊🐍 Python for data: completing **Data Analysis with Python** using **NumPy/SciPy/Matplotlib/SymPy** at **Helsinky University**.
 
 
